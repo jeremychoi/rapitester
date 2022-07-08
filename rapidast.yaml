@@ -74,5 +74,6 @@ spec:
     cron: false
     schedule: '* * * * *'
   pvc: rapidast-pvc
+  resources: {}
   
   
